@@ -1,6 +1,6 @@
 ---
 title: 'Spare Parts'
-# image: '/products/spare.png'
+# images:
 ---
 
 Our supply of spare parts including, heavy equipment, drilling rigs and 
