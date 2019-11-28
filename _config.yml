@@ -3,6 +3,7 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'AlMiswak General Trading'
+description: 'We provide quality products & professional services to our clients through years of experiences gained in engineering field and regional market.'
 
 collections:
   services:
