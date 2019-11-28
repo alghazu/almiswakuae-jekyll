@@ -11,6 +11,18 @@ layout: default
           <div class="content">{{page.content}}</div>
         </div>
       </div>
+
+      <div class="row">
+        {% for i in page.image %}
+          <div class="col">
+            <img src="{{ page.image[i] }}" class="pb-4 img-fluid" style="width: 100%" alt="Product Image">
+          </div>
+        {% endfor %}
+          <div class="col">
+              <img src="{{ page.image[1] }}" class="pb-4 img-fluid" style="width: 100%" alt="Product Image">
+          </div>
+      </div>
+
     </div>
   </div>
 </div>

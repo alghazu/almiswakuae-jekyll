@@ -1,6 +1,6 @@
 ---
 title: 'Abdallah AL Guzo'
-image: '/images/team/Abdallah-portrait-2.png'
+image: '/assets/images/team/Abdallah-portrait-2.png'
 jobtitle: 'General Manager'
 email: {{site.data.contact.email}}
 linkedinurl: 'https://www.linkedin.com/in/abdallah-al-guzo-37319227/'
