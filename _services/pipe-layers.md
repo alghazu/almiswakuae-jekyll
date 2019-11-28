@@ -1,9 +1,9 @@
 ---
 title: 'Pipe Layers'
-image:
-    - '/images/products/pipe-layer-1.jpg'
-    - '/images/products/pipe-layer-2.jpg'
-    - '/images/products/pipe-layer-3.jpg'
+images:
+    - '/assets/images/products/pipe-layer-1.jpg'
+    - '/assets/images/products/pipe-layer-2.jpg'
+    - '/assets/images/products/pipe-layer-3.jpg'
 ---
 
 We are authorised distributer for SUHIGO pipe layers in ME.
