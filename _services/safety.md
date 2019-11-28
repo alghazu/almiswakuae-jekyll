@@ -1,6 +1,6 @@
 ---
 title: 'Safety & Fire Fighting Equipment'
-# image: '/products/safety.png'
+# images: 
 ---
 
 Increasing the safety standard required more 

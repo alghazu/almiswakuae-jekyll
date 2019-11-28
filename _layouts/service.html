@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="strip strip-white strip-diagonal">
-  <div class="container pt-4 pt-md-10">
+  <div class="container pt-4 pt-md-10 pb-6">
     <div class="row justify-content-start">
       <div class="col-12 col-md-8">
         <div class="service service-single">
@@ -11,16 +11,17 @@ layout: default
           <div class="content">{{page.content}}</div>
         </div>
       </div>
-
-      <div class="row">
-        <div class="gallery">
-            {% for image in page.images %}
-            <div class="mb-3 pics animation all 2">
-              <img src="{{ image }}" class="pb-4 img-fluid" style="width: 100%" alt="Product Image">
-            </div>
-            {% endfor %}  
-        </div>
+    </div>
+    {% if page.images %}
+    <div class="row">
+      <div class="gallery px-1">
+          {% for image in page.images %}
+          <div class="mb-3 pics animation all 2">
+            <img src="{{ image }}" class="pb-4 img-fluid" style="width: 100%" alt="Product Image">
+          </div>
+          {% endfor %}  
       </div>
     </div>
+    {% endif %}
   </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: 'Lifting Equipment'
-image: '/projects/lifting.png'
+# images: 
 ---
 
 Lifting items need to be safe and good quality to use it 
