@@ -7,7 +7,7 @@ title: 'AlMiswak General Trading'
 collections:
   services:
     output: true
-    permalink: /projects/:path/
+    permalink: /products/:path/
   team:
     # output: true
     # permalink: /team/:path/
